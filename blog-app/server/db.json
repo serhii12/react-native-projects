@@ -1,0 +1,24 @@
+{
+  "blogposts": [
+    {
+      "title": "API POST",
+      "content": "content for my post",
+      "id": "1"
+    },
+    {
+      "title": "AwesomeJS",
+      "content": "JS LOVE",
+      "id": "X_wLXLT"
+    },
+    {
+      "title": "Awesome Blog",
+      "content": "Oh yeah I am so awesome",
+      "id": "uqQf7h6"
+    },
+    {
+      "title": "My New Blog",
+      "content": "Some cool contenr",
+      "id": "1BEXdaW"
+    }
+  ]
+}

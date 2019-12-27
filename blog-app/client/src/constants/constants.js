@@ -1,4 +1,3 @@
 export const GET_BLOGS_POST = 'GET_BLOGS_POST';
 export const UPDATE_BLOG_POST = 'UPDATE_BLOG_POST';
-export const CREATE_BLOG_POST = 'CREATE_BLOG_POST';
 export const DELETE_BLOG_POST = 'DELETE_BLOG_POST';
